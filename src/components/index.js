@@ -7,6 +7,7 @@ import CTA from "./CTA";
 import Stats from "./Stats";
 import Footer from "./Footer";
 import Testimonial from "./Testimonial";
+import Main from "./Main";
 
 
 export {
@@ -15,6 +16,7 @@ export {
     CardDeal,
     Business,
     Clients,
+    Main,
     CTA,
     Stats,
     Footer,
